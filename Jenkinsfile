@@ -11,11 +11,11 @@ pipeline{
             }
                 echo 'Cloned Successfully'
     }    }
-//     stage('Check Docker Info') {
-//     steps {
-//         sh 'docker info'
-//     }
-// }
+    stage('Check Docker Info') {
+    steps {
+        sh 'docker info'
+    }
+}
         stage("Build"){
             steps{
             echo "Building the image"
