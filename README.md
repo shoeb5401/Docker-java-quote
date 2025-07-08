@@ -59,9 +59,6 @@ project-root/
 ## Customizing Quotes
 To customize the quotes, edit `quotes.txt` and restart the application. Each quote should be on a new line.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 [ShoebQureshi](https://github.com/shoeb5401)
 
